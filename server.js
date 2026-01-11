@@ -13,7 +13,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 // 🔑 Telegram bot token va chat ID
 const TOKEN = '8489529155:AAEwN_bdA_FvlkSNDpu3NrzSR08c2TpOg-4';
-const CHAT_ID = '8507758782';
+const CHAT_ID = '8393066700';
 let lastUpdateId = 0;
 
 // =====================
